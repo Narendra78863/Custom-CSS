@@ -1,6 +1,6 @@
 /* Example: Change color of even rows */
 tr:nth-child(even) {
-    background-color: #f2f2f2; /* Light grey */
+    background-color: #f2f2f2; /* Light red */
 }
 
 /* Example: Change color of odd rows */
